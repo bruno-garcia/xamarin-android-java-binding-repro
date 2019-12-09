@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+.vs/
+.gradle/
+build/
+local.properties
+**.iml
+*.user
+bin/
+obj/
